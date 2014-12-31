@@ -1,4 +1,4 @@
 Y
 =
 
-Yeoman, AngularJS, Restify, RthinkDB in a docker
+Yeoman + AngularJS + Restify + RthinkDB
